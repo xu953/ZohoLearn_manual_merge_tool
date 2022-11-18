@@ -1,2 +1,2 @@
 # Zoho Learn manual merge tool
-APP tool to combine the html files downloaded from ZOHO learn
+Streamlit APP tool to combine the html files downloaded from ZOHO learn. 
