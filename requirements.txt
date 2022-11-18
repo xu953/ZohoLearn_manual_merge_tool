@@ -2,4 +2,3 @@ numpy<1.22.3
 pandas<1.4.2
 streamlit==1.10.0
 bs4<=4.11.1
-zipfile<=3.11
